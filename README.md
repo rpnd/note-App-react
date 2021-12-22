@@ -4,6 +4,9 @@ feature:
 3-store in local
 4- limit remining word >200
 5-responsive
+![Screenshot (65)](https://user-images.githubusercontent.com/74759697/147086757-24d339e2-e228-487d-9a75-fd173ea0e7d7.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/74759697/147086768-8836c2d0-f2e0-4d0d-9a81-db8f5d0ff608.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/74759697/147086776-4f334a60-1cc1-4d89-9ca5-a2e3384e39d9.png)
 
 
 # Getting Started with Create React App
