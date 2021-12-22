@@ -1,3 +1,11 @@
+feature:
+1-dark mode
+2-delete & add note
+3-store in local
+4- limit remining word >200
+5-responsive
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
